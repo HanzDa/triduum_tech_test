@@ -1,0 +1,197 @@
+[
+    {
+        "model": "API.character",
+        "pk": 1,
+        "fields": {
+            "name": "Luke Skywalker",
+            "gender": "male",
+            "age": 25,
+            "skin_color": "fair",
+            "eye_color": "blue",
+            "height": 172,
+            "mass": 77
+        }
+    },
+    {
+        "model": "API.character",
+        "pk": 2,
+        "fields": {
+            "name": "Leia Organa",
+            "gender": "female",
+            "age": 23,
+            "skin_color": "light",
+            "eye_color": "brown",
+            "height": 150,
+            "mass": 49
+        }
+    },
+    {
+        "model": "API.character",
+        "pk": 3,
+        "fields": {
+            "name": "Han Solo",
+            "gender": "male",
+            "age": 32,
+            "skin_color": "fair",
+            "eye_color": "brown",
+            "height": 180,
+            "mass": 80
+        }
+    },
+    {
+        "model": "API.character",
+        "pk": 4,
+        "fields": {
+            "name": "Princess Leia",
+            "gender": "female",
+            "age": 32,
+            "skin_color": "light",
+            "eye_color": "brown",
+            "height": 150,
+            "mass": 49
+        }
+    },
+    {
+        "model": "API.character",
+        "pk": 5,
+        "fields": {
+            "name": "Darth Vader",
+            "gender": "male",
+            "age": 45,
+            "skin_color": "white",
+            "eye_color": "yellow",
+            "height": 202,
+            "mass": 136
+        }
+    },
+    {
+        "model": "API.character",
+        "pk": 6,
+        "fields": {
+            "name": "Yoda",
+            "gender": "unknown",
+            "age": 900,
+            "skin_color": "green",
+            "eye_color": "brown",
+            "height": 66,
+            "mass": 17
+        }
+    },
+    {
+        "model": "API.character",
+        "pk": 7,
+        "fields": {
+            "name": "Obi-Wan Kenobi",
+            "gender": "male",
+            "age": 57,
+            "skin_color": "fair",
+            "eye_color": "blue-gray",
+            "height": 182,
+            "mass": 77
+        }
+    },
+    {
+        "model": "API.character",
+        "pk": 8,
+        "fields": {
+            "name": "Padmé Amidala",
+            "gender": "female",
+            "age": 27,
+            "skin_color": "light",
+            "eye_color": "brown",
+            "height": 165,
+            "mass": 45
+        }
+    },
+    {
+        "model": "API.character",
+        "pk": 9,
+        "fields": {
+            "name": "Rey",
+            "gender": "female",
+            "age": 19,
+            "skin_color": "light",
+            "eye_color": "hazel",
+            "height": 170,
+            "mass": 54
+        }
+    },
+    {
+        "model": "API.character",
+        "pk": 10,
+        "fields": {
+            "name": "Finn",
+            "gender": "male",
+            "age": 23,
+            "skin_color": "dark",
+            "eye_color": "dark brown",
+            "height": 178,
+            "mass": 73
+        }
+    },
+    {
+        "model": "API.character",
+        "pk": 11,
+        "fields": {
+            "name": "Poe Dameron",
+            "gender": "male",
+            "age": 32,
+            "skin_color": "light",
+            "eye_color": "brown",
+            "height": 180,
+            "mass": 80
+        }
+    },
+    {
+        "model": "API.character",
+        "pk": 12,
+        "fields": {
+            "name": "Kylo Ren",
+            "gender": "male",
+            "age": 30,
+            "skin_color": "white",
+            "eye_color": "hazel",
+            "height": 189,
+            "mass": 85
+        }
+    },
+    {
+        "model": "API.character",
+        "pk": 13,
+        "fields": {
+            "name": "Maz Kanata",
+            "gender": "female",
+            "age": 1000,
+            "skin_color": "orange",
+            "eye_color": "brown",
+            "height": 130,
+            "mass": 35
+        }
+    },
+    {
+        "model": "API.character",
+        "pk": 14,
+        "fields": {
+            "name": "BB-8",
+            "gender": "unknown",
+            "age": 3,
+            "skin_color": "none",
+            "eye_color": "black",
+            "height": 67,
+            "mass": 18
+        }
+    },
+    {
+        "model": "API.character",
+        "pk": 15,
+        "fields": {
+            "name": "Lando Calrissian",
+            "gender": "male",
+            "age": 45,
+            "skin_color": "dark",
+            "eye_color": "brown",
+            "height": 178,
+            "mass": 75
+        }
+    }
+]

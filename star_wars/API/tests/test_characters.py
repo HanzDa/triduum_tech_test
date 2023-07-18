@@ -1,7 +1,7 @@
-
 from django.test import TestCase
 
 from API.models import Character, Planet, Film
+
 
 class CharacterTest(TestCase):
     

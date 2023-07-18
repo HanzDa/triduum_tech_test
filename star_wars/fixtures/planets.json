@@ -1,0 +1,112 @@
+[
+    {
+        "model": "API.planet",
+        "pk": 1,
+        "fields": {
+            "name": "Guadeloupe",
+            "diameter": "7",
+            "gravity": 73,
+            "population": 198,
+            "climate": "magenta"
+        }
+    },
+    {
+        "model": "API.planet",
+        "pk": 2,
+        "fields": {
+            "name": "Philippines",
+            "diameter": "8",
+            "gravity": 141,
+            "population": 160,
+            "climate": "green"
+        }
+    },
+    {
+        "model": "API.planet",
+        "pk": 3,
+        "fields": {
+            "name": "Serbia",
+            "diameter": "9",
+            "gravity": 33,
+            "population": 64,
+            "climate": "mint green"
+        }
+    },
+    {
+        "model": "API.planet",
+        "pk": 4,
+        "fields": {
+            "name": "Uzbekistan",
+            "diameter": "5",
+            "gravity": 195,
+            "population": 135,
+            "climate": "salmon"
+        }
+    },
+    {
+        "model": "API.planet",
+        "pk": 5,
+        "fields": {
+            "name": "Burkina Faso",
+            "diameter": "3",
+            "gravity": 180,
+            "population": 46,
+            "climate": "azure"
+        }
+    },
+    {
+        "model": "API.planet",
+        "pk": 6,
+        "fields": {
+            "name": "Northern Mariana Islands",
+            "diameter": "1",
+            "gravity": 105,
+            "population": 26,
+            "climate": "ivory"
+        }
+    },
+    {
+        "model": "API.planet",
+        "pk": 7,
+        "fields": {
+            "name": "Gambia",
+            "diameter": "1",
+            "gravity": 164,
+            "population": 72,
+            "climate": "pink"
+        }
+    },
+    {
+        "model": "API.planet",
+        "pk": 8,
+        "fields": {
+            "name": "Costa Rica",
+            "diameter": "1",
+            "gravity": 100,
+            "population": 158,
+            "climate": "turquoise"
+        }
+    },
+    {
+        "model": "API.planet",
+        "pk": 9,
+        "fields": {
+            "name": "Hong Kong",
+            "diameter": "7",
+            "gravity": 31,
+            "population": 97,
+            "climate": "teal"
+        }
+    },
+    {
+        "model": "API.planet",
+        "pk": 10,
+        "fields": {
+            "name": "Burkina Faso",
+            "diameter": "6",
+            "gravity": 51,
+            "population": 132,
+            "climate": "purple"
+        }
+    }
+]

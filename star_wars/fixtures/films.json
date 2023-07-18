@@ -14,6 +14,12 @@
                 "Alberto Krajcik"
             ],
             "release_date": "1970-02-22",
+            "characters": [
+                9,
+                13,
+                5,
+                6
+            ],
             "planets": [
                 4,
                 5
@@ -35,6 +41,11 @@
                 "Marlene Borer"
             ],
             "release_date": "1960-02-22",
+            "characters": [
+                1,
+                10,
+                6
+            ],
             "planets": [
                 1,
                 3,
@@ -57,6 +68,13 @@
                 "Oscar Raynor"
             ],
             "release_date": "1989-10-22",
+            "characters": [
+                3,
+                4,
+                7,
+                13,
+                15
+            ],
             "planets": [
                 2,
                 7
@@ -78,6 +96,12 @@
                 "Dr. Iris Hammes Jr."
             ],
             "release_date": "1979-10-22",
+            "characters": [
+                1,
+                11,
+                4,
+                7
+            ],
             "planets": [
                 2
             ]
@@ -98,6 +122,14 @@
                 "Dana Hermann"
             ],
             "release_date": "1915-10-22",
+            "characters": [
+                4,
+                5,
+                8,
+                11,
+                12,
+                13
+            ],
             "planets": [
                 6,
                 9
@@ -119,6 +151,11 @@
                 "Leland Smith"
             ],
             "release_date": "2015-10-22",
+            "characters": [
+                12,
+                13,
+                6
+            ],
             "planets": [
                 5,
                 8
@@ -140,6 +177,12 @@
                 "Mrs. Elsie Lesch"
             ],
             "release_date": "1999-05-09",
+            "characters": [
+                9,
+                3,
+                12,
+                14
+            ],
             "planets": [
                 1,
                 4
@@ -161,119 +204,16 @@
                 "Steven Rau Jr."
             ],
             "release_date": "2000-05-09",
+            "characters": [
+                1,
+                4,
+                5,
+                6,
+                7
+            ],
             "planets": [
                 1
             ]
-        }
-    },
-    {
-        "model": "API.planet",
-        "pk": 1,
-        "fields": {
-            "name": "Guadeloupe",
-            "diameter": "7",
-            "gravity": 73,
-            "population": 198,
-            "climate": "magenta"
-        }
-    },
-    {
-        "model": "API.planet",
-        "pk": 2,
-        "fields": {
-            "name": "Philippines",
-            "diameter": "8",
-            "gravity": 141,
-            "population": 160,
-            "climate": "green"
-        }
-    },
-    {
-        "model": "API.planet",
-        "pk": 3,
-        "fields": {
-            "name": "Serbia",
-            "diameter": "9",
-            "gravity": 33,
-            "population": 64,
-            "climate": "mint green"
-        }
-    },
-    {
-        "model": "API.planet",
-        "pk": 4,
-        "fields": {
-            "name": "Uzbekistan",
-            "diameter": "5",
-            "gravity": 195,
-            "population": 135,
-            "climate": "salmon"
-        }
-    },
-    {
-        "model": "API.planet",
-        "pk": 5,
-        "fields": {
-            "name": "Burkina Faso",
-            "diameter": "3",
-            "gravity": 180,
-            "population": 46,
-            "climate": "azure"
-        }
-    },
-    {
-        "model": "API.planet",
-        "pk": 6,
-        "fields": {
-            "name": "Northern Mariana Islands",
-            "diameter": "1",
-            "gravity": 105,
-            "population": 26,
-            "climate": "ivory"
-        }
-    },
-    {
-        "model": "API.planet",
-        "pk": 7,
-        "fields": {
-            "name": "Gambia",
-            "diameter": "1",
-            "gravity": 164,
-            "population": 72,
-            "climate": "pink"
-        }
-    },
-    {
-        "model": "API.planet",
-        "pk": 8,
-        "fields": {
-            "name": "Costa Rica",
-            "diameter": "1",
-            "gravity": 100,
-            "population": 158,
-            "climate": "turquoise"
-        }
-    },
-    {
-        "model": "API.planet",
-        "pk": 9,
-        "fields": {
-            "name": "Hong Kong",
-            "diameter": "7",
-            "gravity": 31,
-            "population": 97,
-            "climate": "teal"
-        }
-    },
-    {
-        "model": "API.planet",
-        "pk": 10,
-        "fields": {
-            "name": "Burkina Faso",
-            "diameter": "6",
-            "gravity": 51,
-            "population": 132,
-            "climate": "purple"
         }
     }
 ]
