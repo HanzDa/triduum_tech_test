@@ -2,6 +2,7 @@
 
 ## Project setup
 ```
+cd star_wars_frontend
 npm install
 ```
 
