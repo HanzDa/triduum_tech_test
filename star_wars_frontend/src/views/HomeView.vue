@@ -1,19 +1,15 @@
 <template>
-  <div class="home">
-    <img alt="Vue logo" src="../assets/logo.png">
-    <img alt="Vue logo" src="../assets/logo.png">
-    <img alt="Vue logo" src="../assets/logo.png">
-    <img alt="Vue logo" src="../assets/logo.png">
-    <img alt="Vue logo" src="../assets/logo.png">
-
-    jejejeje
-  </div>
+  <hello-world />
 </template>
 
 <script>
-// @ is an alias to /src
+  import HelloWorld from '../components/HelloWorld'
 
-export default {
-  name: 'HomeView',
-}
+  export default {
+    name: 'HomeView',
+
+    components: {
+      HelloWorld,
+    },
+  }
 </script>
