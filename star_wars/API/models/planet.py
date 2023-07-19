@@ -9,6 +9,7 @@ class Planet(models.Model):
     gravity = models.IntegerField('Gravity')
     population = models.IntegerField('Population')
     climate = models.CharField('Climate', max_length=30)
+    img_url = models.URLField('Image URL', max_length=500, null=True)
     
     class Meta:
         ordering = ('id',)

@@ -3,17 +3,15 @@
         "model": "API.film",
         "pk": 1,
         "fields": {
-            "title": "Spencer - Powlowski",
+            "title": "A New Hope",
             "opening_crawl": "Suscipit nisi necessitatibus recusandae corrupti iusto odio. Molestias facilis libero voluptatibus ullam. Magnam debitis dolores animi molestias exercitationem architecto sit fugiat ipsam.",
             "directors": [
-                "Mitchell Turner",
-                "Darryl Dare"
+                "George Lucas"
             ],
             "producers": [
-                "Pearl Hudson",
-                "Alberto Krajcik"
+                "Gary Kurtz, Rick McCallum"
             ],
-            "release_date": "1970-02-22",
+            "release_date": "1977-05-25",
             "characters": [
                 9,
                 13,
@@ -23,24 +21,23 @@
             "planets": [
                 4,
                 5
-            ]
+            ],
+            "img_url": ""
         }
     },
     {
         "model": "API.film",
         "pk": 2,
         "fields": {
-            "title": "Hagenes LLC",
+            "title": "The Empire Strikes Back",
             "opening_crawl": "Non ad magni. Recusandae vero eaque fuga. Doloremque possimus facilis odit distinctio itaque. Eius non soluta ad cum reiciendis. Illo totam delectus rerum ducimus eaque illo est illo.",
             "directors": [
-                "Leroy Abbott",
-                "Rosalie Dibbert"
+                "Irvin Kershner"
             ],
             "producers": [
-                "Tami Cummings",
-                "Marlene Borer"
+                "Gary Kurtz"
             ],
-            "release_date": "1960-02-22",
+            "release_date": "1980-05-17",
             "characters": [
                 1,
                 10,
@@ -50,24 +47,23 @@
                 1,
                 3,
                 8
-            ]
+            ],
+            "img_url": ""
         }
     },
     {
         "model": "API.film",
         "pk": 3,
         "fields": {
-            "title": "Gislason LLC",
+            "title": "Return of the Jedi",
             "opening_crawl": "Beatae ea modi ipsa illo accusantium. Odio aliquam velit. Sunt officia rerum rerum recusandae dolorem. Ipsam laudantium cupiditate voluptatibus illum dolores vero ipsum. Aliquam doloribus blanditiis unde maiores quia. Facere consequuntur facilis.",
             "directors": [
-                "Marshall Marquardt",
-                "Mr. Salvatore McCullough"
+                "Richard Marquand"
             ],
             "producers": [
-                "Blanca Kohler",
-                "Oscar Raynor"
+                "Howard Kazanjian, George Lucas"
             ],
-            "release_date": "1989-10-22",
+            "release_date": "1983-05-25",
             "characters": [
                 3,
                 4,
@@ -78,24 +74,23 @@
             "planets": [
                 2,
                 7
-            ]
+            ],
+            "img_url": ""
         }
     },
     {
         "model": "API.film",
         "pk": 4,
         "fields": {
-            "title": "Farrell, Boyle and Hagenes",
+            "title": "The Phantom Menace",
             "opening_crawl": "Corrupti dolore aspernatur illum. Omnis minima inventore. Hic odit ad illo a saepe ullam. Quibusdam aliquam ut nemo id accusantium iusto. Officiis necessitatibus saepe.",
             "directors": [
-                "Gladys Macejkovic",
-                "Vera Gusikowski"
+                "George Lucas"
             ],
             "producers": [
-                "Jared Rau",
-                "Dr. Iris Hammes Jr."
+                "Rick McCallum"
             ],
-            "release_date": "1979-10-22",
+            "release_date": "1999-05-19",
             "characters": [
                 1,
                 11,
@@ -104,24 +99,23 @@
             ],
             "planets": [
                 2
-            ]
+            ],
+            "img_url": ""
         }
     },
     {
         "model": "API.film",
         "pk": 5,
         "fields": {
-            "title": "Keeling - Leuschke",
+            "title": "Attack of the Clones",
             "opening_crawl": "Corrupti distinctio fugiat quaerat numquam quod culpa temporibus culpa. Reiciendis laboriosam omnis itaque beatae odio nulla. Veniam ad tempore. Quod deleniti nulla accusantium quidem quaerat voluptate inventore sequi. Atque similique illo consequatur inventore hic nostrum autem sunt nulla. Sed nesciunt ducimus tempora incidunt.",
             "directors": [
-                "Christie Jacobs",
-                "Neal Feeney"
+                "George Lucas"
             ],
             "producers": [
-                "Rudolph Cremin",
-                "Dana Hermann"
+                "Rick McCallum"
             ],
-            "release_date": "1915-10-22",
+            "release_date": "2002-05-16",
             "characters": [
                 4,
                 5,
@@ -133,24 +127,23 @@
             "planets": [
                 6,
                 9
-            ]
+            ],
+            "img_url": ""
         }
     },
     {
         "model": "API.film",
         "pk": 6,
         "fields": {
-            "title": "Erdman - Legros",
+            "title": "Revenge of the Sith",
             "opening_crawl": "Temporibus quae ipsum. Cum nam nobis officia laborum nesciunt itaque harum. Quisquam culpa consequatur beatae eius repellendus architecto. Quis blanditiis soluta magnam magnam saepe ipsam adipisci laboriosam blanditiis.",
             "directors": [
-                "Joanna Spinka",
-                "Mrs. Roberta Kovacek"
+                "George Lucas"
             ],
             "producers": [
-                "Tasha Herman",
-                "Leland Smith"
+                "Rick McCallum"
             ],
-            "release_date": "2015-10-22",
+            "release_date": "2005-05-19",
             "characters": [
                 12,
                 13,
@@ -159,24 +152,23 @@
             "planets": [
                 5,
                 8
-            ]
+            ],
+            "img_url": ""
         }
     },
     {
         "model": "API.film",
         "pk": 7,
         "fields": {
-            "title": "McClure - Jerde",
+            "title": "The Force Awakens",
             "opening_crawl": "Ea ratione quia. Consequatur pariatur dolor consequuntur similique soluta eos ea vel laudantium. Necessitatibus accusamus veniam quibusdam illum unde voluptatibus. Labore voluptatum dicta minima consequuntur doloribus labore adipisci error. Officia nulla aut dolorem soluta.",
             "directors": [
-                "Laura Feeney",
-                "Jan Dietrich"
+                "J.J. Abrams"
             ],
             "producers": [
-                "Juana Grimes",
-                "Mrs. Elsie Lesch"
+                "Kathleen Kennedy, J.J. Abrams, Bryan Burk"
             ],
-            "release_date": "1999-05-09",
+            "release_date": "2015-12-18",
             "characters": [
                 9,
                 3,
@@ -186,24 +178,23 @@
             "planets": [
                 1,
                 4
-            ]
+            ],
+            "img_url": ""
         }
     },
     {
         "model": "API.film",
         "pk": 8,
         "fields": {
-            "title": "Rodriguez LLC",
+            "title": "The Last Jedi",
             "opening_crawl": "Veniam repellendus hic inventore a quod facilis et delectus. Vel nemo dolorem tempore corrupti dolore maiores et omnis. Quo quibusdam architecto ipsum nam error. Qui tempora natus corporis quas similique ducimus. Esse vitae cum dolorem repellendus ex.",
             "directors": [
-                "Ms. Bobby Stroman",
-                "Patti Cormier"
+                "Rian Johnson"
             ],
             "producers": [
-                "Tricia Bednar",
-                "Steven Rau Jr."
+                "Kathleen Kennedy, Ram Bergman"
             ],
-            "release_date": "2000-05-09",
+            "release_date": "2017-12-15",
             "characters": [
                 1,
                 4,
@@ -213,7 +204,8 @@
             ],
             "planets": [
                 1
-            ]
+            ],
+            "img_url": ""
         }
     }
 ]

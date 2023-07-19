@@ -11,6 +11,7 @@ class Film(models.Model):
     release_date = models.DateField('Release date')
     planets = models.ManyToManyField('Planet', related_name='films')
     characters = models.ManyToManyField('Character', related_name='films')
+    img_url = models.URLField('Image URL', max_length=500, null=True)
     
     class Meta:
         ordering = ('id',)

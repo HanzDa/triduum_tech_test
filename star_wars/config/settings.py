@@ -31,15 +31,15 @@ SECRET_KEY = env('SECRET_KEY')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = env.bool('DJANGO_DEBUG', default=False)
 
-PROJECT_NAME_CODE  = env.str('PROJECT_NAME_CODE') 
+PROJECT_NAME_CODE = env.str('PROJECT_NAME_CODE')
 
 ALLOWED_HOSTS = tuple(env.list('ALLOWED_HOSTS', default=[]))
 
 # STATIC and MEDIA folders config:
 STATIC_ROOT = env.str('STATIC_ROOT', default=f'{BASE_DIR}/static')
-STATIC_URL =  env.str('STATIC_URL', default='/static/') 
+STATIC_URL = env.str('STATIC_URL', default='/static/')
 MEDIA_ROOT = env.str('MEDIA_ROOT', default=f'{BASE_DIR}/media')
-MEDIA_URL =  env.str('MEDIA_URL', default='/media/') 
+MEDIA_URL = env.str('MEDIA_URL', default='/media/')
 
 # Application definition
 
@@ -54,7 +54,7 @@ DJANGO_APPS = [
 
 THIRD_PARTY_APPS = [
     'rest_framework',
-    # 'corsheaders',
+    'corsheaders',
     'django_filters',
     'rest_framework_simplejwt',
     'drf_spectacular',
@@ -81,7 +81,7 @@ ROOT_URLCONF = 'config.urls'
 
 INSTALLED_APPS = DJANGO_APPS + THIRD_PARTY_APPS + LOCAL_APPS
 
-TEMPLATE_DIR = os.path.join(BASE_DIR,'templates')
+TEMPLATE_DIR = os.path.join(BASE_DIR, 'templates')
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
@@ -99,7 +99,6 @@ TEMPLATES = [
 ]
 
 WSGI_APPLICATION = 'config.wsgi.application'
-
 
 # Database
 # https://docs.djangoproject.com/en/4.0/ref/settings/#databases
@@ -137,7 +136,6 @@ AUTH_PASSWORD_VALIDATORS = [
     },
 ]
 
-
 # Internationalization
 # https://docs.djangoproject.com/en/4.0/topics/i18n/
 
@@ -164,20 +162,20 @@ CORS_ORIGIN_ALLOW_ALL = True
 CORS_ALLOW_CREDENTIALS = True
 
 CORS_ALLOW_HEADERS = (
-    'content-disposition', 
+    'content-disposition',
     'accept-encoding',
     'x-requested-with',
     'content-type',
-    'accept', 
-    'origin', 
+    'accept',
+    'origin',
     'authorization',
-    'cache-control', 
-    'Access-Control-Allow-Headers', 
-    'Access-Control-Allow-Methods', 
-    'Access-Control-Allow-Origin', 
-    'access-control-allow-credentials', 
+    'cache-control',
+    'Access-Control-Allow-Headers',
+    'Access-Control-Allow-Methods',
+    'Access-Control-Allow-Origin',
+    'access-control-allow-credentials',
     'authorization-x'
-    )
+)
 
 # Default primary key field type
 # https://docs.djangoproject.com/en/4.0/ref/settings/#default-auto-field

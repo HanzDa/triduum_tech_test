@@ -33,24 +33,24 @@ class UserManager(BaseUserManager):
 
 class User(AbstractBaseUser, PermissionsMixin):
     id = models.BigAutoField(primary_key=True)
-    name = models.CharField('Name', max_length = 30)
+    name = models.CharField('Name', max_length=30)
     nit = models.BigIntegerField('Document', unique=True)
-    email = models.EmailField('Email', max_length = 100, unique=True)
-    
+    email = models.EmailField('Email', max_length=100, unique=True)
+
     is_active = models.BooleanField(default=True)
     is_staff = models.BooleanField(
         _("staff status"),
         default=False,
         help_text=_("Designates whether the user can log into this admin site."),
     )
-    
+
     def __str__(self):
         return self.email
-    
+
     objects = UserManager()
     USERNAME_FIELD = 'email'
     REQUIRED_FIELDS = ['nit']
-    
+
     class Meta:
         verbose_name = 'User'
         verbose_name_plural = 'Users'
