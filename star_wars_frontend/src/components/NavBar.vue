@@ -6,15 +6,13 @@
                 <img src="@/assets/logo.png" class="h-8 mr-3" alt="Star wars Logo">
             </a>
             <div class="flex md:order-2">
-                <button type="button"
-                    class="text-black bg-yellow-300 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-4 py-2 text-center mr-3 md:mr-2 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
-                    Login
-                </button>
+                <login-form />
 
-                <button type="button"
+                <button type="button" data-modal-target="register-modal" data-modal-toggle="register-modal"
                     class="text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-4 py-2 text-center mr-3 md:mr-0 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
                     Sign Up
                 </button>
+                <register-form />
             </div>
             <div class="items-center justify-between hidden w-full md:flex md:w-auto md:order-1" id="navbar-sticky">
                 <ul
@@ -40,8 +38,20 @@
     </nav>
 </template>
 <script>
-export default {
+import LoginForm from '@/components/LoginForm.vue';
+import RegisterForm from '@/components/RegisterForm.vue';
 
+export default {
+    name: 'NavBar',
+    components: {
+        LoginForm,
+        RegisterForm
+    },
+    data() {
+        return {
+            
+        }
+    },
 }
 </script>
 <style></style>
