@@ -24,5 +24,5 @@ class FilmViewSet(viewsets.ViewSet):
 
     def retrieve(self, request, film_id=None, **kwargs):
         film = get_object_or_404(Film, id=film_id)
-        serializer = self.serializer_class(film)
-        return Response(serializer.data)
+        serialized = self.serializer_class(film, exclude=('id', 'planets'))
+        return Response(serialized.data)

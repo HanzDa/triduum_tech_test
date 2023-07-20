@@ -1,11 +1,11 @@
 from rest_framework import serializers
 from API.models import Character
-from API.serializers import FilmSerializer
+from API.serializers.film_serializer import FilmSerializer
 
 
 class CharacterSerializer(serializers.ModelSerializer):
     films = FilmSerializer(read_only=True, many=True,
-                           fields=('id', 'title', 'release_date', 'producers_count'))
+                           fields=('id', 'title', 'release_date', 'producers_count', 'img_urlq'))
 
     class Meta:
         model = Character

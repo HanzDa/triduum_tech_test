@@ -1,7 +1,8 @@
 from rest_framework import serializers
 
 from API.models import Film
-from API.serializers import PlanetSerializer, CustomSerializer
+from API.serializers.custom_serializer import CustomSerializer
+from API.serializers.planet_serializer import PlanetSerializer
 
 
 class FilmSerializer(CustomSerializer):

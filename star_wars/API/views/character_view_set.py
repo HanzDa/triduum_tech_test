@@ -3,8 +3,8 @@ from rest_framework.generics import get_object_or_404
 from rest_framework.permissions import AllowAny
 from rest_framework.response import Response
 
-from API.serializers import CharacterSerializer
 from API.models import Character
+from API.serializers.character_serializer import CharacterSerializer
 
 
 class CharacterViewSet(viewsets.ViewSet):
