@@ -9,10 +9,14 @@
                 "George Lucas"
             ],
             "producers": [
-                "Gary Kurtz", "Rick McCallum"
+                "Gary Kurtz",
+                "Rick McCallum"
             ],
             "release_date": "1977-05-25",
             "planets": [
+                1,
+                2,
+                3,
                 4,
                 5
             ],
@@ -35,7 +39,9 @@
             "planets": [
                 1,
                 3,
-                8
+                8,
+                9,
+                10
             ],
             "img_url": "https://carolinatheatre.org/wp-content/uploads/2022/06/22_TheEmpireStrikesBack_1440x810.jpg"
         }
@@ -50,12 +56,15 @@
                 "Richard Marquand"
             ],
             "producers": [
-                "Howard Kazanjian", "George Lucas"
+                "Howard Kazanjian",
+                "George Lucas"
             ],
             "release_date": "1983-05-25",
             "planets": [
                 2,
-                7
+                7,
+                8,
+                10
             ],
             "img_url": "https://www.laizquierdadiario.com/IMG/logo/scale.jpg?1684969129"
         }
@@ -74,7 +83,11 @@
             ],
             "release_date": "1999-05-19",
             "planets": [
-                2
+                2,
+                3,
+                5,
+                7,
+                8
             ],
             "img_url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/1DD533AEAA5733289BC71A5BB2B0F8CCF5738DDED38B214302609E48F53A7374/scale?width=1200&aspectRatio=1.78&format=jpeg"
         }
@@ -94,7 +107,8 @@
             "release_date": "2002-05-16",
             "planets": [
                 6,
-                9
+                9,
+                10
             ],
             "img_url": "https://static1.cbrimages.com/wordpress/wp-content/uploads/2021/01/Star-Wars-Attack-of-the-Clones-Header.jpg"
         }
@@ -114,7 +128,9 @@
             "release_date": "2005-05-19",
             "planets": [
                 5,
-                8
+                8,
+                9,
+                10
             ],
             "img_url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/03BE24C8533E2B6128DAB52B3F7E91723330681DF1CB7214FC38482D6592BA57/scale?width=1200&aspectRatio=1.78&format=jpeg"
         }
@@ -129,12 +145,16 @@
                 "J.J. Abrams"
             ],
             "producers": [
-                "Kathleen Kennedy", "J.J. Abrams", "Bryan Burk"
+                "Kathleen Kennedy",
+                "J.J. Abrams",
+                "Bryan Burk"
             ],
             "release_date": "2015-12-18",
             "planets": [
                 1,
-                4
+                4,
+                8,
+                9
             ],
             "img_url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/85BA7173BBB70BA7C7BD12EC06D40338915947B1996DA602F4D4A29001F1ED67/scale?width=1200&aspectRatio=1.78&format=jpeg"
         }
@@ -149,11 +169,15 @@
                 "Rian Johnson"
             ],
             "producers": [
-                "Kathleen Kennedy", "Ram Bergman"
+                "Kathleen Kennedy",
+                "Ram Bergman"
             ],
             "release_date": "2017-12-15",
             "planets": [
-                1
+                1,
+                5,
+                6,
+                7
             ],
             "img_url": "https://www.elheraldo.co/sites/default/files/articulo/2017/12/17/starwarslastjedi.jpg"
         }

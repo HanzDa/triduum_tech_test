@@ -1,6 +1,6 @@
 from rest_framework import viewsets
 from rest_framework.generics import get_object_or_404
-from rest_framework.permissions import AllowAny
+from rest_framework.permissions import IsAuthenticatedOrReadOnly
 from rest_framework.response import Response
 
 from API.models import Character
@@ -9,7 +9,7 @@ from API.serializers.character_serializer import CharacterSerializer
 
 class CharacterViewSet(viewsets.ViewSet):
     serializer_class = CharacterSerializer
-    permission_classes = [AllowAny]
+    permission_classes = [IsAuthenticatedOrReadOnly]
     lookup_field = 'char_id'
 
     def list(self, request):
