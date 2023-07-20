@@ -9,7 +9,13 @@
             "skin_color": "fair",
             "eye_color": "blue",
             "height": 172,
-            "mass": 77
+            "mass": 77,
+            "films": [
+                1,
+                4,
+                7
+            ],
+            "img_url": "https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2022/06/star-wars-ultimos-jedi-luke-skywalker-2731227.jpg?tf=3840x"
         }
     },
     {
@@ -22,7 +28,13 @@
             "skin_color": "light",
             "eye_color": "brown",
             "height": 150,
-            "mass": 49
+            "mass": 49,
+            "films": [
+                5,
+                6,
+                7
+            ],
+            "img_url": "https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2017/12/star-wars-leia-iba-ser-primera-padawan-luke.jpg"
         }
     },
     {
@@ -35,7 +47,13 @@
             "skin_color": "fair",
             "eye_color": "brown",
             "height": 180,
-            "mass": 80
+            "mass": 80,
+            "films": [
+                6,
+                7,
+                8
+            ],
+            "img_url": "https://i.blogs.es/4d6980/han-solo-star-wars-razones-fracaso-espinof/1366_2000.jpg"
         }
     },
     {
@@ -48,7 +66,13 @@
             "skin_color": "light",
             "eye_color": "brown",
             "height": 150,
-            "mass": 49
+            "mass": 49,
+            "films": [
+                1,
+                2,
+                5
+            ],
+            "img_url": "https://a1cf74336522e87f135f-2f21ace9a6cf0052456644b80fa06d4f.ssl.cf2.rackcdn.com/images/characters/large/800/Princess-Leia.Star-Wars-Series.webp"
         }
     },
     {
@@ -61,7 +85,14 @@
             "skin_color": "white",
             "eye_color": "yellow",
             "height": 202,
-            "mass": 136
+            "mass": 136,
+            "films": [
+                1,
+                4,
+                6,
+                7
+            ],
+            "img_url": "https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2021/05/star-wars-darth-vader-2353459.jpg?tf=3840x"
         }
     },
     {
@@ -74,7 +105,13 @@
             "skin_color": "green",
             "eye_color": "brown",
             "height": 66,
-            "mass": 17
+            "mass": 17,
+            "films": [
+                2,
+                4,
+                5
+            ],
+            "img_url": "https://media.glamour.mx/photos/619062822d97bd4c522a4f3b/16:9/w_2800,h_1575,c_limit/244079.jpg"
         }
     },
     {
@@ -87,7 +124,13 @@
             "skin_color": "fair",
             "eye_color": "blue-gray",
             "height": 182,
-            "mass": 77
+            "mass": 77,
+            "films": [
+                4,
+                5,
+                8
+            ],
+            "img_url": "https://www.lavanguardia.com/files/content_image_mobile_filter/uploads/2020/01/24/5fa9088d20c09.jpeg"
         }
     },
     {
@@ -100,7 +143,13 @@
             "skin_color": "light",
             "eye_color": "brown",
             "height": 165,
-            "mass": 45
+            "mass": 45,
+            "films": [
+                2,
+                6,
+                8
+            ],
+            "img_url": "https://www.playcentral.de/wp-content/uploads/2023/05/natalie-portman-star-wars-padme.jpg"
         }
     },
     {
@@ -113,7 +162,13 @@
             "skin_color": "light",
             "eye_color": "hazel",
             "height": 170,
-            "mass": 54
+            "mass": 54,
+            "films": [
+                1,
+                2,
+                3
+            ],
+            "img_url": "https://es.vothisaucamau.edu.vn/wp-content/uploads/2023/05/Los-rumores-de-una-nueva-pelicula-de-la-Orden-Jedi.jpg"
         }
     },
     {
@@ -126,7 +181,13 @@
             "skin_color": "dark",
             "eye_color": "dark brown",
             "height": 178,
-            "mass": 73
+            "mass": 73,
+            "films": [
+                4,
+                6,
+                7
+            ],
+            "img_url": "https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2020/06/john-boyega-star-wars-finn-1958247.jpg"
         }
     },
     {
@@ -139,7 +200,12 @@
             "skin_color": "light",
             "eye_color": "brown",
             "height": 180,
-            "mass": 80
+            "mass": 80,
+            "films": [
+                7,
+                8
+            ],
+            "img_url": "https://lumiere-a.akamaihd.net/v1/images/poe-main_611e1021.jpeg?region=0%2C0%2C1280%2C720"
         }
     },
     {
@@ -152,7 +218,13 @@
             "skin_color": "white",
             "eye_color": "hazel",
             "height": 189,
-            "mass": 85
+            "mass": 85,
+            "films": [
+                1,
+                5,
+                8
+            ],
+            "img_url": "https://lumiere-a.akamaihd.net/v1/images/kylo-ren-main-tros-a_6d77fd1e.jpeg?region=160%2C0%2C960%2C720"
         }
     },
     {
@@ -165,7 +237,13 @@
             "skin_color": "orange",
             "eye_color": "brown",
             "height": 130,
-            "mass": 35
+            "mass": 35,
+            "films": [
+                2,
+                6,
+                7
+            ],
+            "img_url": "https://lumiere-a.akamaihd.net/v1/images/tfa-db-maz-kanata-main-image_5022305c.jpeg?region=0%2C49%2C1560%2C780"
         }
     },
     {
@@ -178,7 +256,13 @@
             "skin_color": "none",
             "eye_color": "black",
             "height": 67,
-            "mass": 18
+            "mass": 18,
+            "films": [
+                1,
+                3,
+                5
+            ],
+            "img_url": "https://www.fayerwayer.com/resizer/0brYbJEns1-Ux6X-c5BWnQ33yZ4=/1440x1080/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/metroworldnews/LGPZ4L6UCRGANLPPBIVX7V6UZU.jpg"
         }
     },
     {
@@ -191,7 +275,13 @@
             "skin_color": "dark",
             "eye_color": "brown",
             "height": 178,
-            "mass": 75
+            "mass": 75,
+            "films": [
+                2,
+                5,
+                8
+            ],
+            "img_url": "https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2022/07/star-wars-ascenso-skywalker-lando-calrissian-2750119.jpg?tf=3840x"
         }
     }
 ]

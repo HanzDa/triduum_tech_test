@@ -7,7 +7,8 @@
             "diameter": "7",
             "gravity": 73,
             "population": 198,
-            "climate": "magenta"
+            "climate": "magenta",
+            "img_url":"https://uvn-brightspot.s3.amazonaws.com/assets/vixes/p/planeta_lava_.jpg"
         }
     },
     {
@@ -18,7 +19,8 @@
             "diameter": "8",
             "gravity": 141,
             "population": 160,
-            "climate": "green"
+            "climate": "green",
+            "img_url": "https://lafuerzanoticias.files.wordpress.com/2018/10/mustafar-tall.jpg?w=1536&h=768&crop=1"
         }
     },
     {
@@ -29,7 +31,8 @@
             "diameter": "9",
             "gravity": 33,
             "population": 64,
-            "climate": "mint green"
+            "climate": "mint green",
+            "img_url": "https://www.eltiempo.com/uploads/2019/05/30/5cefe1834f1f9.jpeg"
         }
     },
     {
@@ -40,7 +43,8 @@
             "diameter": "5",
             "gravity": 195,
             "population": 135,
-            "climate": "salmon"
+            "climate": "salmon",
+            "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5jRk0VXcN_X0fqNrqRSUqYVPzNXQe0uiXGA&usqp=CAU"
         }
     },
     {
@@ -51,7 +55,8 @@
             "diameter": "3",
             "gravity": 180,
             "population": 46,
-            "climate": "azure"
+            "climate": "azure",
+            "img_url": "https://pm1.aminoapps.com/6361/c338000011dddc976bc1e960bf83c6a04402b720_hq.jpg"
         }
     },
     {
@@ -62,7 +67,8 @@
             "diameter": "1",
             "gravity": 105,
             "population": 26,
-            "climate": "ivory"
+            "climate": "ivory",
+            "img_url": "https://million-wallpapers.ru/wallpapers/2/63/423304830114412/star-wars-ciencia-ficci-n-planeta.jpg"
         }
     },
     {
@@ -73,7 +79,8 @@
             "diameter": "1",
             "gravity": 164,
             "population": 72,
-            "climate": "pink"
+            "climate": "pink",
+            "img_url": "https://img.freepik.com/fotos-premium/planeta-dos-lunas-planeta-dos-lunas_445983-4691.jpg"
         }
     },
     {
@@ -84,7 +91,8 @@
             "diameter": "1",
             "gravity": 100,
             "population": 158,
-            "climate": "turquoise"
+            "climate": "turquoise",
+            "img_url": "https://p.turbosquid.com/ts-thumb/07/ZhMebE/y6/kuaticonring1/png/1620076500/600x600/fit_q87/6971f7ceec97f4a94a57b3d9d7785e15937d367a/kuaticonring1.jpg"
         }
     },
     {
@@ -95,7 +103,8 @@
             "diameter": "7",
             "gravity": 31,
             "population": 97,
-            "climate": "teal"
+            "climate": "teal",
+            "img_url": "https://www.eltiempo.com/files/article_content/uploads/2019/05/30/5cefe6b40785b.jpeg"
         }
     },
     {
@@ -106,7 +115,8 @@
             "diameter": "6",
             "gravity": 51,
             "population": 132,
-            "climate": "purple"
+            "climate": "purple",
+            "img_url": "https://www.gamecored.com/wp-content/uploads/2023/06/Star-Wars-Outlaws-1-1620x800.jpg"
         }
     }
 ]

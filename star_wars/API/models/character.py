@@ -15,6 +15,7 @@ class Character(models.Model):
     eye_color = models.CharField('Eye color', max_length=30)
     height = models.IntegerField('Height')
     mass = models.IntegerField('Mass')
+    films = models.ManyToManyField('Film', related_name='characters')
     img_url = models.URLField('Image URL', max_length=500, null=True)
     
     class Meta:
